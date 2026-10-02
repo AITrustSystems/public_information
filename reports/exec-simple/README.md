@@ -6,4 +6,10 @@
 - `weekly/` … 週次（毎週月曜 朝5時・前週分のまとめ）
 - ファイル名: 日次 `YYYY-MM-DD.md` ／ 週次 `YYYY-Www.md`
 
-より詳しく知りたい場合は、同じ日付の**本格版（詳しい版）** `../exec-full/` を参照してください。
+技術的な詳細（CVE番号・CVSS等）は扱わず、経営判断と自社点検に役立つ要点に絞っています。
+
+## ご相談
+
+ご相談は AI Trust Systems 株式会社で受け付けております。
+- HP: https://atsinc.jp/#contact
+- メール: tanaka@atsinc.jp
